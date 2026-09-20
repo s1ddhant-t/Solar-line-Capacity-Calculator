@@ -3,7 +3,8 @@
 Simple browser calculator for:
 
 - Stringer, laminator and automation capacity from cycle time
-- Bottleneck-based daily, monthly and yearly production
+- Bottleneck-based daily, monthly, quarterly and yearly production
+- Quantity output for every production period
 - Cell-watt or efficiency-based module power
 - Automatic or manual CTM loss
 - W, kW, MW and GW conversion
